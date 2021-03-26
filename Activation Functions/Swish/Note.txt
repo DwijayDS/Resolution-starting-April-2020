@@ -1,0 +1,11 @@
+ More complicated functions performed worse than simpler functions. 
+
+Other functions that were discovered by the search that we found interesting are
+
+f(x) = cos(x)−x
+
+and
+
+f(x) =max(x,tanh(x)). 
+
+However, these activation functions did not generalize as well as Swish in our experiments,so we did not pursue them further.
